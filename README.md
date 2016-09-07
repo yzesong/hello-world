@@ -1,2 +1,6 @@
 # hello-world
-first github repo
+Hi, there,
+
+This is the readne.txt.
+
+-Jason
